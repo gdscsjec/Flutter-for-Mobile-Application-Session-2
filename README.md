@@ -19,11 +19,11 @@ Navigate to android > app > build.gradle folder
 
 <li>Locate <b>android</b>:
 
-![locate android](images\organization_name.png)
+![locate android](images/organization_name.png)
 
 <li>Change namespace "com.your_name.project_name"
 
-![change name](images\name_change.png)
+![change name](images/name_change.png)
 
 **To start our project:**
 
